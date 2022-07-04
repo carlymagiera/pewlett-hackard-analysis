@@ -12,6 +12,7 @@ The purpose of this analysis is to determine the number of employees retiring by
 - There is a total of 1,549 eligible mentors.
 
 **Number of Retiring Employees by Title**
+
 !['retiring titles'](retiring_titles.png)
 
 ## Summary
